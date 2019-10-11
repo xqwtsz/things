@@ -9,7 +9,7 @@ dump of helpful things for some stuff
 
 - [fuse.js](https://www.npmjs.com/package/fuse.js)
 
-
+- [ramda](https://www.npmjs.com/package/ramda)
 
 
 
