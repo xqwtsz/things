@@ -11,6 +11,8 @@ dump of helpful things for some stuff
 
 - [ramda](https://www.npmjs.com/package/ramda)
 
+- [less](https://www.npmjs.com/package/less)
 
+- [fetch-mock](https://www.npmjs.com/package/fetch-mock)
 
-
+- [redux-mock-store](https://www.npmjs.com/package/redux-mock-store)
