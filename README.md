@@ -16,3 +16,5 @@ dump of helpful things for some stuff
 - [fetch-mock](https://www.npmjs.com/package/fetch-mock)
 
 - [redux-mock-store](https://www.npmjs.com/package/redux-mock-store)
+
+- [should.js](http://shouldjs.github.io/)
