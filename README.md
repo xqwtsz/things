@@ -18,3 +18,5 @@ dump of helpful things for some stuff
 - [redux-mock-store](https://www.npmjs.com/package/redux-mock-store)
 
 - [should.js](http://shouldjs.github.io/)
+
+- [XState](https://xstate.js.org/docs/)
