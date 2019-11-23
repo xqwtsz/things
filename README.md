@@ -20,3 +20,5 @@ dump of helpful things for some stuff
 - [should.js](http://shouldjs.github.io/)
 
 - [XState](https://xstate.js.org/docs/)
+
+- [axios-hooks](https://www.npmjs.com/package/axios-hooks)
