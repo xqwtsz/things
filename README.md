@@ -24,3 +24,5 @@ dump of helpful things for some stuff
 - [axios-hooks](https://www.npmjs.com/package/axios-hooks)
 
 - [cypress](https://www.cypress.io/)
+
+- [immer](https://www.npmjs.com/package/immer)
