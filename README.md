@@ -26,3 +26,5 @@ dump of helpful things for some stuff
 - [cypress](https://www.cypress.io/)
 
 - [immer](https://www.npmjs.com/package/immer)
+
+- [react-query](https://react-query.tanstack.com/)
