@@ -28,3 +28,6 @@ dump of helpful things for some stuff
 - [immer](https://www.npmjs.com/package/immer)
 
 - [react-query](https://react-query.tanstack.com/)
+
+- [little-state-machine](https://github.com/bluebill1049/little-state-machine)
+
