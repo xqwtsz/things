@@ -31,3 +31,5 @@ dump of helpful things for some stuff
 
 - [little-state-machine](https://github.com/bluebill1049/little-state-machine)
 
+- [react-hook-form](https://react-hook-form.com/)
+
