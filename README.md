@@ -33,3 +33,4 @@ dump of helpful things for some stuff
 
 - [react-hook-form](https://react-hook-form.com/)
 
+- [react-dropzone](https://www.npmjs.com/package/react-dropzone)
