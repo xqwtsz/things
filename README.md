@@ -38,3 +38,6 @@ dump of helpful things for some stuff
 - [zustand](https://github.com/pmndrs/zustand)
 
 - [react-dates](https://github.com/airbnb/react-dates)
+
+- [valtio](https://github.com/pmndrs/valtio)
+
