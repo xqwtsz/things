@@ -42,3 +42,5 @@ dump of helpful things for some stuff
 - [valtio](https://github.com/pmndrs/valtio)
 
 - [msw](https://github.com/mswjs/msw)
+
+- [recoil](https://recoiljs.org/)
