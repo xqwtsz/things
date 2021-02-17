@@ -44,3 +44,5 @@ dump of helpful things for some stuff
 - [msw](https://github.com/mswjs/msw)
 
 - [recoil](https://recoiljs.org/)
+
+- [undici](https://github.com/nodejs/undici)
