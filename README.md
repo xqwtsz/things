@@ -46,3 +46,5 @@ dump of helpful things for some stuff
 - [recoil](https://recoiljs.org/)
 
 - [undici](https://github.com/nodejs/undici)
+
+- [toad-scheduler](https://www.npmjs.com/package/toad-scheduler)
