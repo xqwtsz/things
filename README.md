@@ -48,3 +48,6 @@ dump of helpful things for some stuff
 - [undici](https://github.com/nodejs/undici)
 
 - [toad-scheduler](https://www.npmjs.com/package/toad-scheduler)
+
+- [astro](https://docs.astro.build/getting-started)
+
